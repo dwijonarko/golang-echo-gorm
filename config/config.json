@@ -1,0 +1,8 @@
+{
+    "DB_USERNAME": "root",
+    "DB_PASSWORD": "secret",
+    "DB_PORT": "3306",
+    "DB_HOST": "127.0.0.1",
+    "DB_NAME": "go_crud_api"
+
+}
